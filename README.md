@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [일상 블로그](https://blog.naver.com/uppersidedreaming)
 ___
 
-![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=daju0207)](https://solved.ac/daju0207)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=daju0207)](https://solved.ac/daju0207)
 ![kw's GitHub stats](https://github-readme-stats.vercel.app/api?username=akns27&show_icons=true&theme=graywhite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akns27&layout=compact)
