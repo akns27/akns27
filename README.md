@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->제 포트폴리오와 블로그는 여기에 있어요!
+-->[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=19D005&width=435&lines=Hi;I'm+Kangwon+Park;And+Developer)](https://git.io/typing-svg)
+
+제 포트폴리오와 블로그는 여기에 있어요!
 [포트폴리오](https://www.notion.so/Kangwon-Park-52c4be5e07cf4bccbbd06ed5e50b84fd)
 [개발 블로그](https://kangwonpark27.tistory.com/)
 [일상 블로그](https://blog.naver.com/uppersidedreaming)
