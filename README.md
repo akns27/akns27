@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-제 포트폴리오와 블로그는 여기에 있어요!
+제 포트폴리오와 블로그는 여기에!
 [포트폴리오](https://www.notion.so/Kangwon-Park-52c4be5e07cf4bccbbd06ed5e50b84fd)|
 [개발 블로그](https://kangwonpark27.tistory.com/)|
 [일상 블로그](https://blog.naver.com/uppersidedreaming)
