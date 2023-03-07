@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [개발 블로그](https://kangwonpark27.tistory.com/)|
 [일상 블로그](https://blog.naver.com/uppersidedreaming)
 ___
-![kw's GitHub stats](https://github-readme-stats.vercel.app/api?username=akns27&show_icons=true&theme=graywhite)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakns27%2Fakns27%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23000000&icon=paloaltosoftware.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![kw's GitHub stats](https://github-readme-stats.vercel.app/api?username=akns27&show_icons=true&theme=graywhite)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=daju0207)](https://solved.ac/daju0207)
 
