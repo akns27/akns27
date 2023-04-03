@@ -1,5 +1,7 @@
 ### Welcome To My Github!❤️
 
+![KakaoTalk_20230403_175719955](https://user-images.githubusercontent.com/97615164/229461984-878ed3da-afed-4cf4-8926-979218cf1f36.jpg)
+
 <!--
 **akns27/akns27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
