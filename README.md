@@ -4,6 +4,7 @@
 [포트폴리오](https://www.notion.so/Kangwon-Park-52c4be5e07cf4bccbbd06ed5e50b84fd)|
 [개발 블로그](https://kangwonpark27.tistory.com/)|
 [일상 블로그](https://blog.naver.com/uppersidedreaming)
+___
 ![KakaoTalk_20230403_175925307](https://user-images.githubusercontent.com/97615164/229462524-bcec9441-8f0f-4216-863e-3f7614b4d811.jpg)
 
 
@@ -22,6 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-___
+
 
 
