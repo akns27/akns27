@@ -1,7 +1,8 @@
 ### Welcome To My Github!🌹
-<bold>저는 UI/UX 디자이너를 꿈꾸고 있습니다!</bold>
 
-제 포트폴리오와 블로그는 여기에!
+### 저는 UI/UX 디자이너를 꿈꾸고 있습니다!
+
+### 제 포트폴리오와 블로그는 여기에!
 [개발 포트폴리오](https://www.notion.so/Kangwon-Park-52c4be5e07cf4bccbbd06ed5e50b84fd)|
 [디자인 작업물 포트폴리오](https://www.notion.so/6cb6ca91de9f4a25a81a92c21c44319b?showMoveTo=true)|
 [개발 블로그](https://kangwonpark27.tistory.com/)|
