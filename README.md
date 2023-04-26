@@ -1,4 +1,4 @@
-### Welcome To My Github!🌹
+### Welcome To My Github!👋
 
 ### 저는 UI/UX 디자이너를 꿈꾸고 있습니다!
 
