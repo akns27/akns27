@@ -7,8 +7,7 @@
 [디자인 포트폴리오](https://www.notion.so/UI-UX-6cb6ca91de9f4a25a81a92c21c44319b?pvs=4) | 
 [개발 블로그](https://kangwonpark27.tistory.com/) | 
 [일상 블로그](https://blog.naver.com/uppersidedreaming)
-___
-![KakaoTalk_20230403_175925307](https://user-images.githubusercontent.com/97615164/229462524-bcec9441-8f0f-4216-863e-3f7614b4d811.jpg)
+
 
 
 <!--
