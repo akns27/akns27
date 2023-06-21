@@ -1,4 +1,4 @@
-### 저는 UI/UX 디자이너를 꿈꾸고 있습니다
+### 저는 UI 디자이너를 꿈꾸고 있습니다
 
 ### 포트폴리오와 블로그는 아래에!
 [개발 포트폴리오](https://www.notion.so/Kangwon-Park-52c4be5e07cf4bccbbd06ed5e50b84fd?pvs=4) | 
