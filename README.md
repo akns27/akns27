@@ -1,6 +1,6 @@
 ### 저는 UI/UX 디자이너를 꿈꾸고 있습니다
 
-### 제 포트폴리오와 블로그를 구경해보세요😀
+### 제 포트폴리오와 블로그를 구경해보세요
 [디자인 포트폴리오](https://www.notion.so/UI-UX-6cb6ca91de9f4a25a81a92c21c44319b?pvs=4) | 
 [개발&디자인 블로그](https://kangwonpark27.tistory.com/)
 | 
