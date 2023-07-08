@@ -5,8 +5,7 @@
 
 [디자인 포트폴리오](https://www.notion.so/UI-UX-6cb6ca91de9f4a25a81a92c21c44319b?pvs=4) | 
 [개발&디자인 블로그](https://kangwonpark27.tistory.com/)
-| 
-[일상 블로그](https://blog.naver.com/uppersidedreaming)
+
 
 
 
