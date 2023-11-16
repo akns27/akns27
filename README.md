@@ -1,9 +1,9 @@
 ### 안녕하세요! 저는 즐거움을 추구하는 UI/UX 디자이너 박강원입니다.
-### 제 포트폴리오와 블로그를 구경해보세요
+### 제 블로그를 구경해보세요
 
 
-| 
-[개발&디자인 블로그](https://kangwonpark27.tistory.com/)
+
+[블로그](https://kangwonpark27.tistory.com/)
 
 
 
