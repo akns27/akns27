@@ -5,5 +5,5 @@
 
 
 [블로그](https://kangwonpark27.tistory.com/) |
-[포트폴리오](https://roan-helmet-ae1.notion.site/6cb6ca91de9f4a25a81a92c21c44319b?pvs=4)
+[포트폴리오](https://my.surfit.io/w/1831503843)
 
